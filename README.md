@@ -1,6 +1,9 @@
 # Implementation-of-EDF-Scheduler-on-FreeRTOS
 This Project will discuss how to implement EDF Scheduler on FreeRTOS
 
+
+                                     For More Deatails check the attached PDF .
+
 In this Project we will change 3 files (task.c , task.h and Freertosconfig.h)
 
 1-First of all, the new Ready List is declared: xReadyTasksListEDF is a simple list structure.
